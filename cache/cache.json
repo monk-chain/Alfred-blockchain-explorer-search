@@ -1,0 +1,5134 @@
+[
+  {
+    "name": "Ethereum Mainnet",
+    "chain": "ETH",
+    "chainId": 1,
+    "shortName": "eth",
+    "icon": "ethereum",
+    "Cid": "QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt",
+    "explorers": [
+      {
+        "url": "https://etherscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Expanse Network",
+    "chain": "EXP",
+    "chainId": 2,
+    "shortName": "exp",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Ropsten",
+    "chain": "ETH",
+    "chainId": 3,
+    "shortName": "rop",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://ropsten.etherscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Rinkeby",
+    "chain": "ETH",
+    "chainId": 4,
+    "shortName": "rin",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://rinkeby.etherscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Görli",
+    "chain": "ETH",
+    "chainId": 5,
+    "shortName": "gor",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://goerli.etherscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Ethereum Classic Testnet Kotti",
+    "chain": "ETC",
+    "chainId": 6,
+    "shortName": "kot",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "ThaiChain",
+    "chain": "TCH",
+    "chainId": 7,
+    "shortName": "tch",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Ubiq",
+    "chain": "UBQ",
+    "chainId": 8,
+    "shortName": "ubq",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://ubiqscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Ubiq Network Testnet",
+    "chain": "UBQ",
+    "chainId": 9,
+    "shortName": "tubq",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Optimism",
+    "chain": "ETH",
+    "chainId": 10,
+    "shortName": "oeth",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://optimistic.etherscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Metadium Mainnet",
+    "chain": "META",
+    "chainId": 11,
+    "shortName": "meta",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Metadium Testnet",
+    "chain": "META",
+    "chainId": 12,
+    "shortName": "kal",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Diode Testnet Staging",
+    "chain": "DIODE",
+    "chainId": 13,
+    "shortName": "dstg",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Flare Mainnet",
+    "chain": "FLR",
+    "chainId": 14,
+    "shortName": "flr",
+    "icon": "flare",
+    "Cid": "QmebGy9pJdCSSg1SEdZ7uzaRxgEPHdGxbvogMREs4dV73X",
+    "explorers": null
+  },
+  {
+    "name": "Diode Prenet",
+    "chain": "DIODE",
+    "chainId": 15,
+    "shortName": "diode",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Flare Testnet Coston",
+    "chain": "FLR",
+    "chainId": 16,
+    "shortName": "cflr",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://coston-explorer.flare.network"
+      }
+    ]
+  },
+  {
+    "name": "ThaiChain 2.0 ThaiFi",
+    "chain": "TCH",
+    "chainId": 17,
+    "shortName": "tfi",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "ThunderCore Testnet",
+    "chain": "TST",
+    "chainId": 18,
+    "shortName": "TST",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer-testnet.thundercore.com"
+      }
+    ]
+  },
+  {
+    "name": "Songbird Canary-Network",
+    "chain": "SGB",
+    "chainId": 19,
+    "shortName": "sgb",
+    "icon": "songbird",
+    "Cid": "QmYxcrbb7EoXisMQN9KqSoUqbjctV482nyfyWNvPQebdon",
+    "explorers": [
+      {
+        "url": "https://songbird-explorer.flare.network"
+      }
+    ]
+  },
+  {
+    "name": "Elastos Smart Chain",
+    "chain": "ETH",
+    "chainId": 20,
+    "shortName": "elaeth",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://eth.elastos.io"
+      }
+    ]
+  },
+  {
+    "name": "ELA-ETH-Sidechain Testnet",
+    "chain": "ETH",
+    "chainId": 21,
+    "shortName": "elaetht",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "ELA-DID-Sidechain Mainnet",
+    "chain": "ETH",
+    "chainId": 22,
+    "shortName": "eladid",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "ELA-DID-Sidechain Testnet",
+    "chain": "ETH",
+    "chainId": 23,
+    "shortName": "eladidt",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Dithereum Mainnet",
+    "chain": "DTH",
+    "chainId": 24,
+    "shortName": "dthmainnet",
+    "icon": "dithereum",
+    "Cid": "QmSHN5GtRGpMMpszSn1hF47ZSLRLqrLxWsQ48YYdJPyjLf",
+    "explorers": null
+  },
+  {
+    "name": "Cronos Mainnet Beta",
+    "chain": "CRO",
+    "chainId": 25,
+    "shortName": "cro",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://cronos.org/explorer"
+      }
+    ]
+  },
+  {
+    "name": "Genesis L1 testnet",
+    "chain": "genesis",
+    "chainId": 26,
+    "shortName": "L1test",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.genesisl1.org"
+      }
+    ]
+  },
+  {
+    "name": "ShibaChain",
+    "chain": "SHIB",
+    "chainId": 27,
+    "shortName": "shib",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://exp.shibachain.net"
+      }
+    ]
+  },
+  {
+    "name": "Boba Network Rinkeby Testnet",
+    "chain": "ETH",
+    "chainId": 28,
+    "shortName": "Boba Rinkeby",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://blockexplorer.rinkeby.boba.network"
+      }
+    ]
+  },
+  {
+    "name": "Genesis L1",
+    "chain": "genesis",
+    "chainId": 29,
+    "shortName": "L1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.genesisl1.org"
+      }
+    ]
+  },
+  {
+    "name": "RSK Mainnet",
+    "chain": "RSK",
+    "chainId": 30,
+    "shortName": "rsk",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.rsk.co"
+      }
+    ]
+  },
+  {
+    "name": "RSK Testnet",
+    "chain": "RSK",
+    "chainId": 31,
+    "shortName": "trsk",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "GoodData Testnet",
+    "chain": "GooD",
+    "chainId": 32,
+    "shortName": "GooDT",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "GoodData Mainnet",
+    "chain": "GooD",
+    "chainId": 33,
+    "shortName": "GooD",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Dithereum Testnet",
+    "chain": "DTH",
+    "chainId": 34,
+    "shortName": "dth",
+    "icon": "dithereum",
+    "Cid": "QmSHN5GtRGpMMpszSn1hF47ZSLRLqrLxWsQ48YYdJPyjLf",
+    "explorers": null
+  },
+  {
+    "name": "TBWG Chain",
+    "chain": "TBWG",
+    "chainId": 35,
+    "shortName": "tbwg",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Valorbit",
+    "chain": "VAL",
+    "chainId": 38,
+    "shortName": "val",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Telos EVM Mainnet",
+    "chain": "TLOS",
+    "chainId": 40,
+    "shortName": "Telos EVM",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://teloscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Telos EVM Testnet",
+    "chain": "TLOS",
+    "chainId": 41,
+    "shortName": "Telos EVM Testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Kovan",
+    "chain": "ETH",
+    "chainId": 42,
+    "shortName": "kov",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://kovan.etherscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Darwinia Pangolin Testnet",
+    "chain": "pangolin",
+    "chainId": 43,
+    "shortName": "pangolin",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://pangolin.subscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Darwinia Crab Network",
+    "chain": "crab",
+    "chainId": 44,
+    "shortName": "crab",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://crab.subscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Darwinia Pangoro Testnet",
+    "chain": "pangoro",
+    "chainId": 45,
+    "shortName": "pangoro",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://pangoro.subscan.io"
+      }
+    ]
+  },
+  {
+    "name": "XinFin Network Mainnet",
+    "chain": "XDC",
+    "chainId": 50,
+    "shortName": "xdc",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "XinFin Apothem Testnet",
+    "chain": "TXDC",
+    "chainId": 51,
+    "shortName": "TXDC",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "CoinEx Smart Chain Mainnet",
+    "chain": "CSC",
+    "chainId": 52,
+    "shortName": "cet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.coinex.net"
+      }
+    ]
+  },
+  {
+    "name": "CoinEx Smart Chain Testnet",
+    "chain": "CSC",
+    "chainId": 53,
+    "shortName": "tcet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.coinex.net"
+      }
+    ]
+  },
+  {
+    "name": "Openpiece Mainnet",
+    "chain": "OPENPIECE",
+    "chainId": 54,
+    "shortName": "OP",
+    "icon": "openpiece",
+    "Cid": "QmVTahJkdSH3HPYsJMK2GmqfWZjLyxE7cXy1aHEnHU3vp2",
+    "explorers": [
+      {
+        "url": "https://bellyscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Zyx Mainnet",
+    "chain": "ZYX",
+    "chainId": 55,
+    "shortName": "ZYX",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://zyxscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Binance Smart Chain Mainnet",
+    "chain": "BSC",
+    "chainId": 56,
+    "shortName": "bnb",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://bscscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Syscoin Mainnet",
+    "chain": "SYS",
+    "chainId": 57,
+    "shortName": "sys",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.syscoin.org"
+      }
+    ]
+  },
+  {
+    "name": "Ontology Mainnet",
+    "chain": "Ontology",
+    "chainId": 58,
+    "shortName": "Ontology Mainnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.ont.io"
+      }
+    ]
+  },
+  {
+    "name": "EOS Mainnet",
+    "chain": "EOS",
+    "chainId": 59,
+    "shortName": "EOS Mainnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://bloks.eosargentina.io"
+      }
+    ]
+  },
+  {
+    "name": "GoChain",
+    "chain": "GO",
+    "chainId": 60,
+    "shortName": "go",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.gochain.io"
+      }
+    ]
+  },
+  {
+    "name": "Ethereum Classic Mainnet",
+    "chain": "ETC",
+    "chainId": 61,
+    "shortName": "etc",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://blockscout.com/etc/mainnet"
+      }
+    ]
+  },
+  {
+    "name": "Ethereum Classic Testnet Morden",
+    "chain": "ETC",
+    "chainId": 62,
+    "shortName": "tetc",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Ethereum Classic Testnet Mordor",
+    "chain": "ETC",
+    "chainId": 63,
+    "shortName": "metc",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Ellaism",
+    "chain": "ELLA",
+    "chainId": 64,
+    "shortName": "ella",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "OKExChain Testnet",
+    "chain": "okexchain",
+    "chainId": 65,
+    "shortName": "tokt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.oklink.com/okexchain-test"
+      }
+    ]
+  },
+  {
+    "name": "OKXChain Mainnet",
+    "chain": "okxchain",
+    "chainId": 66,
+    "shortName": "okt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.oklink.com/en/okc"
+      }
+    ]
+  },
+  {
+    "name": "DBChain Testnet",
+    "chain": "DBM",
+    "chainId": 67,
+    "shortName": "dbm",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "SoterOne Mainnet",
+    "chain": "SOTER",
+    "chainId": 68,
+    "shortName": "SO1",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Optimism Kovan",
+    "chain": "ETH",
+    "chainId": 69,
+    "shortName": "okov",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://kovan-optimistic.etherscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Hoo Smart Chain",
+    "chain": "HSC",
+    "chainId": 70,
+    "shortName": "hsc",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.hooscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Conflux eSpace (Testnet)",
+    "chain": "Conflux",
+    "chainId": 71,
+    "shortName": "cfxtest",
+    "icon": "conflux",
+    "Cid": "bafkreifj7n24u2dslfijfihwqvpdeigt5aj3k3sxv6s35lv75sxsfr3ojy",
+    "explorers": [
+      {
+        "url": "https://evmtestnet.confluxscan.net"
+      }
+    ]
+  },
+  {
+    "name": "IDChain Mainnet",
+    "chain": "IDChain",
+    "chainId": 74,
+    "shortName": "idchain",
+    "icon": "idchain",
+    "Cid": "QmZVwsY6HPXScKqZCA9SWNrr4jrQAHkPhVhMWi6Fj1DsrJ",
+    "explorers": [
+      {
+        "url": "https://explorer.idchain.one"
+      }
+    ]
+  },
+  {
+    "name": "Mix",
+    "chain": "MIX",
+    "chainId": 76,
+    "shortName": "mix",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "POA Network Sokol",
+    "chain": "POA",
+    "chainId": 77,
+    "shortName": "spoa",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://blockscout.com/poa/sokol"
+      }
+    ]
+  },
+  {
+    "name": "PrimusChain mainnet",
+    "chain": "PC",
+    "chainId": 78,
+    "shortName": "primuschain",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Zenith Mainnet",
+    "chain": "Zenith",
+    "chainId": 79,
+    "shortName": "zenith",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.zenithchain.co"
+      }
+    ]
+  },
+  {
+    "name": "GeneChain",
+    "chain": "GeneChain",
+    "chainId": 80,
+    "shortName": "GeneChain",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.genechain.io"
+      }
+    ]
+  },
+  {
+    "name": "Zenith Testnet (Vilnius)",
+    "chain": "Zenith",
+    "chainId": 81,
+    "shortName": "VIL",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://vilnius.scan.zenithchain.co"
+      }
+    ]
+  },
+  {
+    "name": "Meter Mainnet",
+    "chain": "METER",
+    "chainId": 82,
+    "shortName": "Meter",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.meter.io"
+      }
+    ]
+  },
+  {
+    "name": "Meter Testnet",
+    "chain": "METER Testnet",
+    "chainId": 83,
+    "shortName": "MeterTest",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan-warringstakes.meter.io"
+      }
+    ]
+  },
+  {
+    "name": "GateChain Testnet",
+    "chain": "GTTEST",
+    "chainId": 85,
+    "shortName": "gttest",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.gatescan.org/testnet"
+      }
+    ]
+  },
+  {
+    "name": "GateChain Mainnet",
+    "chain": "GT",
+    "chainId": 86,
+    "shortName": "gt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.gatescan.org"
+      }
+    ]
+  },
+  {
+    "name": "Nova Network",
+    "chain": "NNW",
+    "chainId": 87,
+    "shortName": "nnw",
+    "icon": "novanetwork",
+    "Cid": "QmNtr72zqg3eKGNyVVNgTNLddPm3nUCqggXYyE9vQxZDW2",
+    "explorers": [
+      {
+        "url": "https://explorer.novanetwork.io"
+      }
+    ]
+  },
+  {
+    "name": "TomoChain",
+    "chain": "TOMO",
+    "chainId": 88,
+    "shortName": "tomo",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "TomoChain Testnet",
+    "chain": "TOMO",
+    "chainId": 89,
+    "shortName": "tomot",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Garizon Stage0",
+    "chain": "GAR",
+    "chainId": 90,
+    "shortName": "gar-s0",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "Garizon Stage1",
+    "chain": "GAR",
+    "chainId": 91,
+    "shortName": "gar-s1",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "Garizon Stage2",
+    "chain": "GAR",
+    "chainId": 92,
+    "shortName": "gar-s2",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "Garizon Stage3",
+    "chain": "GAR",
+    "chainId": 93,
+    "shortName": "gar-s3",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "CryptoKylin Testnet",
+    "chain": "EOS",
+    "chainId": 95,
+    "shortName": "Kylin Testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://kylin.eosargentina.io"
+      }
+    ]
+  },
+  {
+    "name": "NEXT Smart Chain",
+    "chain": "NSC",
+    "chainId": 96,
+    "shortName": "nsc",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.nextsmartchain.com"
+      }
+    ]
+  },
+  {
+    "name": "Binance Smart Chain Testnet",
+    "chain": "BSC",
+    "chainId": 97,
+    "shortName": "bnbt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.bscscan.com"
+      }
+    ]
+  },
+  {
+    "name": "POA Network Core",
+    "chain": "POA",
+    "chainId": 99,
+    "shortName": "poa",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://blockscout.com/poa/core"
+      }
+    ]
+  },
+  {
+    "name": "Gnosis",
+    "chain": "Gnosis",
+    "chainId": 100,
+    "shortName": "gno",
+    "icon": "gnosis",
+    "Cid": "bafybeidk4swpgdyqmpz6shd5onvpaujvwiwthrhypufnwr6xh3dausz2dm",
+    "explorers": [
+      {
+        "url": "https://blockscout.com/xdai/mainnet"
+      }
+    ]
+  },
+  {
+    "name": "EtherInc",
+    "chain": "ETI",
+    "chainId": 101,
+    "shortName": "eti",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Web3Games Testnet",
+    "chain": "Web3Games",
+    "chainId": 102,
+    "shortName": "tw3g",
+    "icon": "web3games",
+    "Cid": "QmUc57w3UTHiWapNW9oQb1dP57ymtdemTTbpvGkjVHBRCo",
+    "explorers": null
+  },
+  {
+    "name": "Web3Games Devnet",
+    "chain": "Web3Games",
+    "chainId": 105,
+    "shortName": "dw3g",
+    "icon": "web3games",
+    "Cid": "QmUc57w3UTHiWapNW9oQb1dP57ymtdemTTbpvGkjVHBRCo",
+    "explorers": [
+      {
+        "url": "https://explorer-devnet.web3games.org"
+      }
+    ]
+  },
+  {
+    "name": "Velas EVM Mainnet",
+    "chain": "Velas",
+    "chainId": 106,
+    "shortName": "vlx",
+    "icon": "velas",
+    "Cid": "QmNXiCXJxEeBd7ZYGYjPSMTSdbDd2nfodLC677gUfk9ku5",
+    "explorers": [
+      {
+        "url": "https://evmexplorer.velas.com"
+      }
+    ]
+  },
+  {
+    "name": "Nebula Testnet",
+    "chain": "NTN",
+    "chainId": 107,
+    "shortName": "ntn",
+    "icon": "nebulatestnet",
+    "Cid": "QmNtr72zqg3eKGNyVVNgTNLddPm3nUCqggXYyE9vQxZDW2",
+    "explorers": [
+      {
+        "url": "https://explorer.novanetwork.io"
+      }
+    ]
+  },
+  {
+    "name": "ThunderCore Mainnet",
+    "chain": "TT",
+    "chainId": 108,
+    "shortName": "TT",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://viewblock.io/thundercore"
+      }
+    ]
+  },
+  {
+    "name": "Proton Testnet",
+    "chain": "XPR",
+    "chainId": 110,
+    "shortName": "xpr",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "EtherLite Chain",
+    "chain": "ETL",
+    "chainId": 111,
+    "shortName": "ETL",
+    "icon": "etherlite",
+    "Cid": "QmbNAai1KnBnw4SPQKgrf6vBddifPCQTg2PePry1bmmZYy",
+    "explorers": null
+  },
+  {
+    "name": "Fuse Mainnet",
+    "chain": "FUSE",
+    "chainId": 122,
+    "shortName": "fuse",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Fuse Sparknet",
+    "chain": "fuse",
+    "chainId": 123,
+    "shortName": "spark",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Decentralized Web Mainnet",
+    "chain": "DWU",
+    "chainId": 124,
+    "shortName": "dwu",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "OYchain Testnet",
+    "chain": "OYchain",
+    "chainId": 125,
+    "shortName": "oychain testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.testnet.oychain.io"
+      }
+    ]
+  },
+  {
+    "name": "OYchain Mainnet",
+    "chain": "OYchain",
+    "chainId": 126,
+    "shortName": "oychain mainnet",
+    "icon": "oychain",
+    "Cid": "QmXW5T2MaGHznXUmQEXoyJjcdmX7dhLbj5fnqvZZKqeKzA",
+    "explorers": [
+      {
+        "url": "https://explorer.oychain.io"
+      }
+    ]
+  },
+  {
+    "name": "Factory 127 Mainnet",
+    "chain": "FETH",
+    "chainId": 127,
+    "shortName": "feth",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Huobi ECO Chain Mainnet",
+    "chain": "Heco",
+    "chainId": 128,
+    "shortName": "heco",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://hecoinfo.com"
+      }
+    ]
+  },
+  {
+    "name": "Polygon Mainnet",
+    "chain": "Polygon",
+    "chainId": 137,
+    "shortName": "MATIC",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://polygonscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Openpiece Testnet",
+    "chain": "OPENPIECE",
+    "chainId": 141,
+    "shortName": "OPtest",
+    "icon": "openpiece",
+    "Cid": "QmVTahJkdSH3HPYsJMK2GmqfWZjLyxE7cXy1aHEnHU3vp2",
+    "explorers": [
+      {
+        "url": "https://testnet.bellyscan.com"
+      }
+    ]
+  },
+  {
+    "name": "DAX CHAIN",
+    "chain": "DAX",
+    "chainId": 142,
+    "shortName": "dax",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Lightstreams Testnet",
+    "chain": "PHT",
+    "chainId": 162,
+    "shortName": "tpht",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Lightstreams Mainnet",
+    "chain": "PHT",
+    "chainId": 163,
+    "shortName": "pht",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "AIOZ Network",
+    "chain": "AIOZ",
+    "chainId": 168,
+    "shortName": "aioz",
+    "icon": "aioz",
+    "Cid": "QmRAGPFhvQiXgoJkui7WHajpKctGFrJNhHqzYdwcWt5V3Z",
+    "explorers": [
+      {
+        "url": "https://explorer.aioz.network"
+      }
+    ]
+  },
+  {
+    "name": "HOO Smart Chain Testnet",
+    "chain": "ETH",
+    "chainId": 170,
+    "shortName": "hoosmartchain",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Latam-Blockchain Resil Testnet",
+    "chain": "Resil",
+    "chainId": 172,
+    "shortName": "resil",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "AME Chain Mainnet",
+    "chain": "AME",
+    "chainId": 180,
+    "shortName": "ame",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://amescan.io"
+      }
+    ]
+  },
+  {
+    "name": "Seele Mainnet",
+    "chain": "Seele",
+    "chainId": 186,
+    "shortName": "Seele",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://seeleview.net"
+      }
+    ]
+  },
+  {
+    "name": "BMC Mainnet",
+    "chain": "BMC",
+    "chainId": 188,
+    "shortName": "BMC",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://bmc.blockmeta.com"
+      }
+    ]
+  },
+  {
+    "name": "BMC Testnet",
+    "chain": "BMC",
+    "chainId": 189,
+    "shortName": "BMCT",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://bmctestnet.blockmeta.com"
+      }
+    ]
+  },
+  {
+    "name": "Crypto Emergency",
+    "chain": "CEM",
+    "chainId": 193,
+    "shortName": "cem",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://cemscan.com"
+      }
+    ]
+  },
+  {
+    "name": "BitTorrent Chain Mainnet",
+    "chain": "BTTC",
+    "chainId": 199,
+    "shortName": "BTT",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.bittorrentchain.io"
+      }
+    ]
+  },
+  {
+    "name": "Arbitrum on xDai",
+    "chain": "AOX",
+    "chainId": 200,
+    "shortName": "aox",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://blockscout.com/xdai/arbitrum"
+      }
+    ]
+  },
+  {
+    "name": "Freight Trust Network",
+    "chain": "EDI",
+    "chainId": 211,
+    "shortName": "EDI",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "SoterOne Mainnet old",
+    "chain": "SOTER",
+    "chainId": 218,
+    "shortName": "SO1-old",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Permission",
+    "chain": "ASK",
+    "chainId": 222,
+    "shortName": "ASK",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "LACHAIN Mainnet",
+    "chain": "LA",
+    "chainId": 225,
+    "shortName": "LA",
+    "icon": "lachain",
+    "Cid": "QmQxGA6rhuCQDXUueVcNvFRhMEWisyTmnF57TqL7h6k6cZ",
+    "explorers": [
+      {
+        "url": "https://scan.lachain.io"
+      }
+    ]
+  },
+  {
+    "name": "LACHAIN Testnet",
+    "chain": "TLA",
+    "chainId": 226,
+    "shortName": "TLA",
+    "icon": "lachain",
+    "Cid": "QmQxGA6rhuCQDXUueVcNvFRhMEWisyTmnF57TqL7h6k6cZ",
+    "explorers": [
+      {
+        "url": "https://scan-test.lachain.io"
+      }
+    ]
+  },
+  {
+    "name": "Aitd Testnet",
+    "chain": "AITD",
+    "chainId": 239,
+    "shortName": "AITD",
+    "icon": "aitd",
+    "Cid": "QmNUzX12Gtn4fePqJeMcACvECEH2VeUeNaMFja2kfff1WS",
+    "explorers": [
+      {
+        "url": "https://aitd-explorer-pre.aitdcoin.com"
+      }
+    ]
+  },
+  {
+    "name": "Energy Web Chain",
+    "chain": "Energy Web Chain",
+    "chainId": 246,
+    "shortName": "ewt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.energyweb.org"
+      }
+    ]
+  },
+  {
+    "name": "Fantom Opera",
+    "chain": "FTM",
+    "chainId": 250,
+    "shortName": "ftm",
+    "icon": "fantom",
+    "Cid": "QmcM8kHNsNYoitt5S3kLThyrKVFTZo3k2rgnume6tnNroQ",
+    "explorers": [
+      {
+        "url": "https://ftmscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Huobi ECO Chain Testnet",
+    "chain": "Heco",
+    "chainId": 256,
+    "shortName": "hecot",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Setheum",
+    "chain": "Setheum",
+    "chainId": 258,
+    "shortName": "setm",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "SUR Blockchain Network",
+    "chain": "SUR",
+    "chainId": 262,
+    "shortName": "SUR",
+    "icon": "SUR",
+    "Cid": "QmbUcDQHCvheYQrWk9WFJRMW5fTJQmtZqkoGUed4bhCM7T",
+    "explorers": [
+      {
+        "url": "https://explorer.surnet.org"
+      }
+    ]
+  },
+  {
+    "name": "High Performance Blockchain",
+    "chain": "HPB",
+    "chainId": 269,
+    "shortName": "hpb",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://hscan.org"
+      }
+    ]
+  },
+  {
+    "name": "Boba Network",
+    "chain": "ETH",
+    "chainId": 288,
+    "shortName": "Boba",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://blockexplorer.boba.network"
+      }
+    ]
+  },
+  {
+    "name": "Optimism on Gnosis Chain",
+    "chain": "OGC",
+    "chainId": 300,
+    "shortName": "ogc",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://blockscout.com/xdai/optimism"
+      }
+    ]
+  },
+  {
+    "name": "KCC Mainnet",
+    "chain": "KCC",
+    "chainId": 321,
+    "shortName": "kcs",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.kcc.io/en"
+      }
+    ]
+  },
+  {
+    "name": "KCC Testnet",
+    "chain": "KCC",
+    "chainId": 322,
+    "shortName": "kcst",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan-testnet.kcc.network"
+      }
+    ]
+  },
+  {
+    "name": "Web3Q Mainnet",
+    "chain": "Web3Q",
+    "chainId": 333,
+    "shortName": "w3q",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.mainnet.web3q.io"
+      }
+    ]
+  },
+  {
+    "name": "DFK Chain Test",
+    "chain": "DFK",
+    "chainId": 335,
+    "shortName": "DFKTEST",
+    "icon": "dfk",
+    "Cid": "QmQB48m15TzhUFrmu56QCRQjkrkgUaKfgCmKE8o3RzmuPJ",
+    "explorers": [
+      {
+        "url": "https://explorer-test.dfkchain.com"
+      }
+    ]
+  },
+  {
+    "name": "Shiden",
+    "chain": "SDN",
+    "chainId": 336,
+    "shortName": "sdn",
+    "icon": "shiden",
+    "Cid": "QmQySjAoWHgk3ou1yvBi2TrTcgH6KhfGiU7GcrLzrAeRkE",
+    "explorers": [
+      {
+        "url": "https://shiden.subscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Cronos Testnet",
+    "chain": "CRO",
+    "chainId": 338,
+    "shortName": "tcro",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://cronos.crypto.org/explorer/testnet3"
+      }
+    ]
+  },
+  {
+    "name": "Theta Mainnet",
+    "chain": "Theta",
+    "chainId": 361,
+    "shortName": "theta-mainnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.thetatoken.org"
+      }
+    ]
+  },
+  {
+    "name": "Theta Sapphire Testnet",
+    "chain": "Theta",
+    "chainId": 363,
+    "shortName": "theta-sapphire",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://guardian-testnet-sapphire-explorer.thetatoken.org"
+      }
+    ]
+  },
+  {
+    "name": "Theta Amber Testnet",
+    "chain": "Theta",
+    "chainId": 364,
+    "shortName": "theta-amber",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://guardian-testnet-amber-explorer.thetatoken.org"
+      }
+    ]
+  },
+  {
+    "name": "Theta Testnet",
+    "chain": "Theta",
+    "chainId": 365,
+    "shortName": "theta-testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet-explorer.thetatoken.org"
+      }
+    ]
+  },
+  {
+    "name": "PulseChain Mainnet",
+    "chain": "PLS",
+    "chainId": 369,
+    "shortName": "pls",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Lisinski",
+    "chain": "CRO",
+    "chainId": 385,
+    "shortName": "lisinski",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "SX Network Mainnet",
+    "chain": "SX",
+    "chainId": 416,
+    "shortName": "SX",
+    "icon": "SX",
+    "Cid": "QmSXLXqyr2H6Ja5XrmznXbWTEvF2gFaL8RXNXgyLmDHjAF",
+    "explorers": [
+      {
+        "url": "https://explorer.sx.technology"
+      }
+    ]
+  },
+  {
+    "name": "Optimistic Ethereum Testnet Goerli",
+    "chain": "ETH",
+    "chainId": 420,
+    "shortName": "ogor",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Rupaya",
+    "chain": "RUPX",
+    "chainId": 499,
+    "shortName": "rupx",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Double-A Chain Mainnet",
+    "chain": "AAC",
+    "chainId": 512,
+    "shortName": "aac",
+    "icon": "aac",
+    "Cid": "QmRUrz4dULaoaMpnqd8qXT7ehwz3aaqnYKY4ePsy7isGaF",
+    "explorers": [
+      {
+        "url": "https://scan.acuteangle.com"
+      }
+    ]
+  },
+  {
+    "name": "Double-A Chain Testnet",
+    "chain": "AAC",
+    "chainId": 513,
+    "shortName": "aact",
+    "icon": "aac",
+    "Cid": "QmRUrz4dULaoaMpnqd8qXT7ehwz3aaqnYKY4ePsy7isGaF",
+    "explorers": [
+      {
+        "url": "https://scan-testnet.acuteangle.com"
+      }
+    ]
+  },
+  {
+    "name": "XT Smart Chain Mainnet",
+    "chain": "XSC",
+    "chainId": 520,
+    "shortName": "xt",
+    "icon": "xsc",
+    "Cid": "QmNmAFgQKkjofaBR5mhB5ygE1Gna36YBVsGkgZQxrwW85s",
+    "explorers": [
+      {
+        "url": "https://xscscan.pub"
+      }
+    ]
+  },
+  {
+    "name": "Candle",
+    "chain": "Candle",
+    "chainId": 534,
+    "shortName": "CNDL",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://candleexplorer.com"
+      }
+    ]
+  },
+  {
+    "name": "Vela1 Chain Mainnet",
+    "chain": "VELA1",
+    "chainId": 555,
+    "shortName": "CLASS",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://exp.velaverse.io"
+      }
+    ]
+  },
+  {
+    "name": "Tao Network",
+    "chain": "TAO",
+    "chainId": 558,
+    "shortName": "tao",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Metis Stardust Testnet",
+    "chain": "ETH",
+    "chainId": 588,
+    "shortName": "metis-stardust",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://stardust-explorer.metis.io"
+      }
+    ]
+  },
+  {
+    "name": "Astar",
+    "chain": "ASTR",
+    "chainId": 592,
+    "shortName": "astr",
+    "icon": "astar",
+    "Cid": "Qmdvmx3p6gXBCLUMU1qivscaTNkT6h3URdhUTZCHLwKudg",
+    "explorers": [
+      {
+        "url": "https://astar.subscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Acala Mandala Testnet",
+    "chain": "mACA",
+    "chainId": 595,
+    "shortName": "maca",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Karura Network Testnet",
+    "chain": "KAR",
+    "chainId": 596,
+    "shortName": "tkar",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Acala Network Testnet",
+    "chain": "ACA",
+    "chainId": 597,
+    "shortName": "taca",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Meshnyan testnet",
+    "chain": "MeshTestChain",
+    "chainId": 600,
+    "shortName": "mesh-chain-testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "SX Network Testnet",
+    "chain": "SX",
+    "chainId": 647,
+    "shortName": "SX-Testnet",
+    "icon": "SX",
+    "Cid": "QmSXLXqyr2H6Ja5XrmznXbWTEvF2gFaL8RXNXgyLmDHjAF",
+    "explorers": [
+      {
+        "url": "https://explorer.toronto.sx.technology"
+      }
+    ]
+  },
+  {
+    "name": "Pixie Chain Testnet",
+    "chain": "PixieChain",
+    "chainId": 666,
+    "shortName": "pixie-chain-testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Karura Network",
+    "chain": "KAR",
+    "chainId": 686,
+    "shortName": "kar",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Star Social Testnet",
+    "chain": "SNS",
+    "chainId": 700,
+    "shortName": "SNS",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://avastar.info"
+      }
+    ]
+  },
+  {
+    "name": "BlockChain Station Mainnet",
+    "chain": "BCS",
+    "chainId": 707,
+    "shortName": "bcs",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.bcsdev.io"
+      }
+    ]
+  },
+  {
+    "name": "BlockChain Station Testnet",
+    "chain": "BCS",
+    "chainId": 708,
+    "shortName": "tbcs",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.bcsdev.io"
+      }
+    ]
+  },
+  {
+    "name": "Factory 127 Testnet",
+    "chain": "FETH",
+    "chainId": 721,
+    "shortName": "tfeth",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "OpenChain Testnet",
+    "chain": "OpenChain Testnet",
+    "chainId": 776,
+    "shortName": "opc",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.openchain.info"
+      }
+    ]
+  },
+  {
+    "name": "cheapETH",
+    "chain": "cheapETH",
+    "chainId": 777,
+    "shortName": "cth",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Acala Network",
+    "chain": "ACA",
+    "chainId": 787,
+    "shortName": "aca",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Aerochain Testnet",
+    "chain": "Aerochain",
+    "chainId": 788,
+    "shortName": "taero",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.aeroscan.id"
+      }
+    ]
+  },
+  {
+    "name": "Haic",
+    "chain": "Haic",
+    "chainId": 803,
+    "shortName": "haic",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Callisto Mainnet",
+    "chain": "CLO",
+    "chainId": 820,
+    "shortName": "clo",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Callisto Testnet",
+    "chain": "CLO",
+    "chainId": 821,
+    "shortName": "tclo",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Ambros Chain Mainnet",
+    "chain": "ambroschain",
+    "chainId": 880,
+    "shortName": "ambros",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://ambrosscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Wanchain",
+    "chain": "WAN",
+    "chainId": 888,
+    "shortName": "wan",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Garizon Testnet Stage0",
+    "chain": "GAR",
+    "chainId": 900,
+    "shortName": "gar-test-s0",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer-testnet.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "Garizon Testnet Stage1",
+    "chain": "GAR",
+    "chainId": 901,
+    "shortName": "gar-test-s1",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer-testnet.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "Garizon Testnet Stage2",
+    "chain": "GAR",
+    "chainId": 902,
+    "shortName": "gar-test-s2",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer-testnet.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "Garizon Testnet Stage3",
+    "chain": "GAR",
+    "chainId": 903,
+    "shortName": "gar-test-s3",
+    "icon": "garizon",
+    "Cid": "QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "explorers": [
+      {
+        "url": "https://explorer-testnet.garizon.com"
+      }
+    ]
+  },
+  {
+    "name": "PulseChain Testnet",
+    "chain": "tPLS",
+    "chainId": 940,
+    "shortName": "tpls",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "PulseChain Testnet v2b",
+    "chain": "t2bPLS",
+    "chainId": 941,
+    "shortName": "t2bpls",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "PulseChain Testnet v3",
+    "chain": "t3PLS",
+    "chainId": 942,
+    "shortName": "t3pls",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Nepal Blockchain Network",
+    "chain": "YETI",
+    "chainId": 977,
+    "shortName": "yeti",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "TOP Mainnet EVM",
+    "chain": "TOP",
+    "chainId": 980,
+    "shortName": "top_evm",
+    "icon": "top",
+    "Cid": "QmYikaM849eZrL8pGNeVhEHVTKWpxdGMvCY5oFBfZ2ndhd",
+    "explorers": [
+      {
+        "url": "https://www.topscan.io"
+      }
+    ]
+  },
+  {
+    "name": "TOP Mainnet",
+    "chain": "TOP",
+    "chainId": 989,
+    "shortName": "top",
+    "icon": "top",
+    "Cid": "QmYikaM849eZrL8pGNeVhEHVTKWpxdGMvCY5oFBfZ2ndhd",
+    "explorers": [
+      {
+        "url": "https://www.topscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Lucky Network",
+    "chain": "LN",
+    "chainId": 998,
+    "shortName": "ln",
+    "icon": "lucky",
+    "Cid": "bafkreidmvcd5i7touug55hj45mf2pgabxamy5fziva7mtx5n664s3yap6m",
+    "explorers": [
+      {
+        "url": "https://explorer.luckynetwork.org"
+      },
+      {
+        "url": "https://lnscan.org"
+      }
+    ]
+  },
+  {
+    "name": "Wanchain Testnet",
+    "chain": "WAN",
+    "chainId": 999,
+    "shortName": "twan",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Klaytn Testnet Baobab",
+    "chain": "KLAY",
+    "chainId": 1001,
+    "shortName": "Baobab",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Newton Testnet",
+    "chain": "NEW",
+    "chainId": 1007,
+    "shortName": "tnew",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Eurus Mainnet",
+    "chain": "EUN",
+    "chainId": 1008,
+    "shortName": "eun",
+    "icon": "eurus",
+    "Cid": "QmaGd5L9jGPbfyGXBFhu9gjinWJ66YtNrXq8x6Q98Eep9e",
+    "explorers": [
+      {
+        "url": "https://explorer.eurus.network"
+      }
+    ]
+  },
+  {
+    "name": "Evrice Network",
+    "chain": "EVC",
+    "chainId": 1010,
+    "shortName": "EVC",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Newton",
+    "chain": "NEW",
+    "chainId": 1012,
+    "shortName": "new",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Sakura",
+    "chain": "Sakura",
+    "chainId": 1022,
+    "shortName": "sku",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Clover Testnet",
+    "chain": "Clover",
+    "chainId": 1023,
+    "shortName": "tclv",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "CLV Parachain",
+    "chain": "CLV",
+    "chainId": 1024,
+    "shortName": "clv",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "BitTorrent Chain Testnet",
+    "chain": "BTTC",
+    "chainId": 1028,
+    "shortName": "tbtt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testscan.bittorrentchain.io"
+      }
+    ]
+  },
+  {
+    "name": "Conflux eSpace",
+    "chain": "Conflux",
+    "chainId": 1030,
+    "shortName": "cfx",
+    "icon": "conflux",
+    "Cid": "bafkreifj7n24u2dslfijfihwqvpdeigt5aj3k3sxv6s35lv75sxsfr3ojy",
+    "explorers": [
+      {
+        "url": "https://evm.confluxscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Metis Andromeda Mainnet",
+    "chain": "ETH",
+    "chainId": 1088,
+    "shortName": "metis-andromeda",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://andromeda-explorer.metis.io"
+      }
+    ]
+  },
+  {
+    "name": "MathChain",
+    "chain": "MATH",
+    "chainId": 1139,
+    "shortName": "MATH",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "MathChain Testnet",
+    "chain": "MATH",
+    "chainId": 1140,
+    "shortName": "tMATH",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Iora Chain",
+    "chain": "IORA",
+    "chainId": 1197,
+    "shortName": "iora",
+    "icon": "iorachain",
+    "Cid": "bafybeiehps5cqdhqottu2efo4jeehwpkz5rbux3cjxd75rm6rjm4sgs2wi",
+    "explorers": [
+      {
+        "url": "https://explorer.iorachain.com"
+      }
+    ]
+  },
+  {
+    "name": "Evanesco Testnet",
+    "chain": "Evanesco Testnet",
+    "chainId": 1201,
+    "shortName": "avis",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "World Trade Technical Chain Mainnet",
+    "chain": "WTT",
+    "chainId": 1202,
+    "shortName": "wtt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.cadaut.com"
+      }
+    ]
+  },
+  {
+    "name": "Popcateum Mainnet",
+    "chain": "POPCATEUM",
+    "chainId": 1213,
+    "shortName": "popcat",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.popcateum.org"
+      }
+    ]
+  },
+  {
+    "name": "EnterChain Mainnet",
+    "chain": "ENTER",
+    "chainId": 1214,
+    "shortName": "enter",
+    "icon": "enter",
+    "Cid": "Qmb2UYVc1MjLPi8vhszWRxqBJYoYkWQVxDJRSmtrgk6j2E",
+    "explorers": [
+      {
+        "url": "https://explorer.entercoin.net"
+      }
+    ]
+  },
+  {
+    "name": "HALO Mainnet",
+    "chain": "HALO",
+    "chainId": 1280,
+    "shortName": "HO",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://browser.halo.land"
+      }
+    ]
+  },
+  {
+    "name": "Moonbeam",
+    "chain": "MOON",
+    "chainId": 1284,
+    "shortName": "mbeam",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://moonbeam.moonscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Moonriver",
+    "chain": "MOON",
+    "chainId": 1285,
+    "shortName": "mriver",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://moonriver.moonscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Moonrock old",
+    "chain": "MOON",
+    "chainId": 1286,
+    "shortName": "mrock-old",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Moonbase Alpha",
+    "chain": "MOON",
+    "chainId": 1287,
+    "shortName": "mbase",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://moonbase.moonscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Moonrock",
+    "chain": "MOON",
+    "chainId": 1288,
+    "shortName": "mrock",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "CENNZnet old",
+    "chain": "CENNZnet",
+    "chainId": 1337,
+    "shortName": "cennz-old",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Sherpax Mainnet",
+    "chain": "Sherpax Mainnet",
+    "chainId": 1506,
+    "shortName": "Sherpax",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://evm.sherpax.io"
+      }
+    ]
+  },
+  {
+    "name": "Sherpax Testnet",
+    "chain": "Sherpax Testnet",
+    "chainId": 1507,
+    "shortName": "Sherpax Testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://evm-pre.sherpax.io"
+      }
+    ]
+  },
+  {
+    "name": "Catecoin Chain Mainnet",
+    "chain": "Catechain",
+    "chainId": 1618,
+    "shortName": "cate",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Atheios",
+    "chain": "ATH",
+    "chainId": 1620,
+    "shortName": "ath",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Btachain",
+    "chain": "btachain",
+    "chainId": 1657,
+    "shortName": "bta",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "LUDAN Mainnet",
+    "chain": "LUDAN",
+    "chainId": 1688,
+    "shortName": "LUDAN",
+    "icon": "ludan",
+    "Cid": "bafkreigzeanzqgxrzzep45t776ovbwi242poqxbryuu2go5eedeuwwcsay",
+    "explorers": null
+  },
+  {
+    "name": "Cube Chain Mainnet",
+    "chain": "Cube",
+    "chainId": 1818,
+    "shortName": "cube",
+    "icon": "cube",
+    "Cid": "QmbENgHTymTUUArX5MZ2XXH69WGenirU3oamkRD448hYdz",
+    "explorers": [
+      {
+        "url": "https://cubescan.network"
+      }
+    ]
+  },
+  {
+    "name": "Cube Chain Testnet",
+    "chain": "Cube",
+    "chainId": 1819,
+    "shortName": "cubet",
+    "icon": "cube",
+    "Cid": "QmbENgHTymTUUArX5MZ2XXH69WGenirU3oamkRD448hYdz",
+    "explorers": [
+      {
+        "url": "https://testnet.cubescan.network"
+      }
+    ]
+  },
+  {
+    "name": "Teslafunds",
+    "chain": "TSF",
+    "chainId": 1856,
+    "shortName": "tsf",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "BON Network",
+    "chain": "BON",
+    "chainId": 1898,
+    "shortName": "boya",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.boyanet.org:4001"
+      }
+    ]
+  },
+  {
+    "name": "Eurus Testnet",
+    "chain": "EUN",
+    "chainId": 1984,
+    "shortName": "euntest",
+    "icon": "eurus",
+    "Cid": "QmaGd5L9jGPbfyGXBFhu9gjinWJ66YtNrXq8x6Q98Eep9e",
+    "explorers": [
+      {
+        "url": "https://testnetexplorer.eurus.network"
+      }
+    ]
+  },
+  {
+    "name": "EtherGem",
+    "chain": "EGEM",
+    "chainId": 1987,
+    "shortName": "egem",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Milkomeda C1 Mainnet",
+    "chain": "milkAda",
+    "chainId": 2001,
+    "shortName": "milkAda",
+    "icon": "milkomeda",
+    "Cid": "QmdoUtvHDybu5ppYBZT8BMRp6AqByVSoQs8nFwKbaS55jd",
+    "explorers": [
+      {
+        "url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com"
+      }
+    ]
+  },
+  {
+    "name": "CloudWalk Testnet",
+    "chain": "CloudWalk Testnet",
+    "chainId": 2008,
+    "shortName": "cloudwalk_testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.testnet.cloudwalk.io"
+      }
+    ]
+  },
+  {
+    "name": "CloudWalk Mainnet",
+    "chain": "CloudWalk Mainnet",
+    "chainId": 2009,
+    "shortName": "cloudwalk_mainnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.mainnet.cloudwalk.io"
+      }
+    ]
+  },
+  {
+    "name": "420coin",
+    "chain": "420",
+    "chainId": 2020,
+    "shortName": "420",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Edgeware Mainnet",
+    "chain": "EDG",
+    "chainId": 2021,
+    "shortName": "edg",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Beresheet Testnet",
+    "chain": "EDG",
+    "chainId": 2022,
+    "shortName": "edgt",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Taycan Testnet",
+    "chain": "Taycan",
+    "chainId": 2023,
+    "shortName": "taycan-testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://evmscan-test.hupayx.io"
+      },
+      {
+        "url": "https://cosmoscan-test.hupayx.io"
+      }
+    ]
+  },
+  {
+    "name": "Rangers Protocol Mainnet",
+    "chain": "Rangers",
+    "chainId": 2025,
+    "shortName": "rpg",
+    "icon": "rangers",
+    "Cid": "QmfHG3xbg4iiopagww93Gu7tmvCpPwZdiwsUjd3Dt5mRwT",
+    "explorers": [
+      {
+        "url": "https://scan.rangersprotocol.com"
+      }
+    ]
+  },
+  {
+    "name": "Ecoball Mainnet",
+    "chain": "ECO",
+    "chainId": 2100,
+    "shortName": "eco",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.ecoball.org"
+      }
+    ]
+  },
+  {
+    "name": "Ecoball Testnet Espuma",
+    "chain": "ECO",
+    "chainId": 2101,
+    "shortName": "esp",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://espuma-scan.ecoball.org"
+      }
+    ]
+  },
+  {
+    "name": "Findora Mainnet",
+    "chain": "Findora",
+    "chainId": 2152,
+    "shortName": "fra",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://evm.findorascan.io"
+      }
+    ]
+  },
+  {
+    "name": "Findora Testnet",
+    "chain": "Testnet-anvil",
+    "chainId": 2153,
+    "shortName": "findora-testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet-anvil.evm.findorascan.io"
+      }
+    ]
+  },
+  {
+    "name": "Evanesco Mainnet",
+    "chain": "EVA",
+    "chainId": 2213,
+    "shortName": "evanesco",
+    "icon": "evanesco",
+    "Cid": "QmZbmGYdfbMRrWJore3c7hyD6q7B5pXHJqTSNjbZZUK6V8",
+    "explorers": [
+      {
+        "url": "https://explorer.evanesco.org"
+      }
+    ]
+  },
+  {
+    "name": "Kava EVM Testnet",
+    "chain": "KAVA",
+    "chainId": 2221,
+    "shortName": "tkava",
+    "icon": "kava",
+    "Cid": "QmdpRTk6oL1HRW9xC6cAc4Rnf9gs6zgdAcr4Z3HcLztusm",
+    "explorers": [
+      {
+        "url": "https://explorer.evm-alpha.kava.io"
+      }
+    ]
+  },
+  {
+    "name": "Kava EVM",
+    "chain": "KAVA",
+    "chainId": 2222,
+    "shortName": "kava",
+    "icon": "kava",
+    "Cid": "QmdpRTk6oL1HRW9xC6cAc4Rnf9gs6zgdAcr4Z3HcLztusm",
+    "explorers": [
+      {
+        "url": "https://explorer.kava.io"
+      }
+    ]
+  },
+  {
+    "name": "VChain Mainnet",
+    "chain": "VChain",
+    "chainId": 2223,
+    "shortName": "VChain",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.vcex.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Kortho Mainnet",
+    "chain": "Kortho Chain",
+    "chainId": 2559,
+    "shortName": "ktoc",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "TechPay Mainnet",
+    "chain": "TPC",
+    "chainId": 2569,
+    "shortName": "tpc",
+    "icon": "techpay",
+    "Cid": "QmQyTyJUnhD1dca35Vyj96pm3v3Xyw8xbG9m8HXHw3k2zR",
+    "explorers": [
+      {
+        "url": "https://tpcscan.com"
+      }
+    ]
+  },
+  {
+    "name": "EZChain C-Chain Mainnet",
+    "chain": "EZC",
+    "chainId": 2612,
+    "shortName": "EZChain",
+    "icon": "ezchain",
+    "Cid": "QmPKJbYCFjGmY9X2cA4b9YQjWYHQncmKnFtKyQh9rHkFTb",
+    "explorers": [
+      {
+        "url": "https://cchain-explorer.ezchain.com"
+      }
+    ]
+  },
+  {
+    "name": "EZChain C-Chain Testnet",
+    "chain": "EZC",
+    "chainId": 2613,
+    "shortName": "Fuji-EZChain",
+    "icon": "ezchain",
+    "Cid": "QmPKJbYCFjGmY9X2cA4b9YQjWYHQncmKnFtKyQh9rHkFTb",
+    "explorers": [
+      {
+        "url": "https://testnet-cchain-explorer.ezchain.com"
+      }
+    ]
+  },
+  {
+    "name": "CENNZnet Rata",
+    "chain": "CENNZnet",
+    "chainId": 3000,
+    "shortName": "cennz-r",
+    "icon": "cennz",
+    "Cid": "QmWhNm7tTi6SYbiumULDRk956hxgqaZSX77vcxBNn8fvnw",
+    "explorers": null
+  },
+  {
+    "name": "CENNZnet Nikau",
+    "chain": "CENNZnet",
+    "chainId": 3001,
+    "shortName": "cennz-n",
+    "icon": "cennz",
+    "Cid": "QmWhNm7tTi6SYbiumULDRk956hxgqaZSX77vcxBNn8fvnw",
+    "explorers": [
+      {
+        "url": "https://www.uncoverexplorer.com/?network=Nikau"
+      }
+    ]
+  },
+  {
+    "name": "ZCore Testnet",
+    "chain": "Beach",
+    "chainId": 3331,
+    "shortName": "zcrbeach",
+    "icon": "zcore",
+    "Cid": "QmQnXu13ym8W1VA3QxocaNVXGAuEPmamSCkS7bBscVk1f4",
+    "explorers": null
+  },
+  {
+    "name": "Web3Q Testnet",
+    "chain": "Web3Q",
+    "chainId": 3333,
+    "shortName": "w3q-t",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.testnet.web3q.io"
+      }
+    ]
+  },
+  {
+    "name": "Web3Q Galileo",
+    "chain": "Web3Q",
+    "chainId": 3334,
+    "shortName": "w3q-g",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.galileo.web3q.io"
+      }
+    ]
+  },
+  {
+    "name": "Paribu Net Mainnet",
+    "chain": "PRB",
+    "chainId": 3400,
+    "shortName": "prb",
+    "icon": "prb",
+    "Cid": "QmVgc77jYo2zrxQjhYwT4KzvSrSZ1DBJraJVX57xAvP8MD",
+    "explorers": [
+      {
+        "url": "https://explorer.paribu.network"
+      }
+    ]
+  },
+  {
+    "name": "Paribu Net Testnet",
+    "chain": "PRB",
+    "chainId": 3500,
+    "shortName": "prbtestnet",
+    "icon": "prb",
+    "Cid": "QmVgc77jYo2zrxQjhYwT4KzvSrSZ1DBJraJVX57xAvP8MD",
+    "explorers": [
+      {
+        "url": "https://testnet.paribuscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Bittex Mainnet",
+    "chain": "BTX",
+    "chainId": 3690,
+    "shortName": "btx",
+    "icon": "ethereum",
+    "Cid": "QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt",
+    "explorers": [
+      {
+        "url": "https://bittexscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Crossbell",
+    "chain": "Crossbell",
+    "chainId": 3737,
+    "shortName": "csb",
+    "icon": "crossbell",
+    "Cid": "QmS8zEetTb6pwdNpVjv5bz55BXiSMGP9BjTJmNcjcUT91t",
+    "explorers": [
+      {
+        "url": "https://scan.crossbell.io"
+      }
+    ]
+  },
+  {
+    "name": "DYNO Mainnet",
+    "chain": "DYNO",
+    "chainId": 3966,
+    "shortName": "dyno",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://dynoscan.io"
+      }
+    ]
+  },
+  {
+    "name": "DYNO Testnet",
+    "chain": "DYNO",
+    "chainId": 3967,
+    "shortName": "tdyno",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.dynoscan.io"
+      }
+    ]
+  },
+  {
+    "name": "YuanChain Mainnet",
+    "chain": "YCC",
+    "chainId": 3999,
+    "shortName": "ycc",
+    "icon": "ycc",
+    "Cid": "QmdbPhiB5W2gbHZGkYsN7i2VTKKP9casmAN2hRnpDaL9W4",
+    "explorers": [
+      {
+        "url": "https://mainnet.yuan.org"
+      }
+    ]
+  },
+  {
+    "name": "Fantom Testnet",
+    "chain": "FTM",
+    "chainId": 4002,
+    "shortName": "tftm",
+    "icon": "fantom",
+    "Cid": "QmcM8kHNsNYoitt5S3kLThyrKVFTZo3k2rgnume6tnNroQ",
+    "explorers": [
+      {
+        "url": "https://testnet.ftmscan.com"
+      }
+    ]
+  },
+  {
+    "name": "AIOZ Network Testnet",
+    "chain": "AIOZ",
+    "chainId": 4102,
+    "shortName": "aioz-testnet",
+    "icon": "aioz",
+    "Cid": "QmRAGPFhvQiXgoJkui7WHajpKctGFrJNhHqzYdwcWt5V3Z",
+    "explorers": [
+      {
+        "url": "https://testnet.explorer.aioz.network"
+      }
+    ]
+  },
+  {
+    "name": "PHI Network",
+    "chain": "PHI",
+    "chainId": 4181,
+    "shortName": "PHI",
+    "icon": "phi",
+    "Cid": "bafybeideqgs54hqx23deytbf4ljbjxgt7tyqkr5b6o5y2yglwjjjf6c4uq",
+    "explorers": [
+      {
+        "url": "https://explorer.phi.network"
+      }
+    ]
+  },
+  {
+    "name": "IoTeX Network Mainnet",
+    "chain": "iotex.io",
+    "chainId": 4689,
+    "shortName": "iotex-mainnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://iotexscan.io"
+      }
+    ]
+  },
+  {
+    "name": "IoTeX Network Testnet",
+    "chain": "iotex.io",
+    "chainId": 4690,
+    "shortName": "iotex-testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.iotexscan.io"
+      }
+    ]
+  },
+  {
+    "name": "Venidium Testnet",
+    "chain": "XVM",
+    "chainId": 4918,
+    "shortName": "txvm",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://evm-testnet.venidiumexplorer.com"
+      }
+    ]
+  },
+  {
+    "name": "Venidium Mainnet",
+    "chain": "XVM",
+    "chainId": 4919,
+    "shortName": "xvm",
+    "icon": "venidium",
+    "Cid": "bafkreiaplwlym5g27jm4mjhotfqq6al2cxp3fnkmzdusqjg7wnipq5wn2e",
+    "explorers": [
+      {
+        "url": "https://evm.venidiumexplorer.com"
+      }
+    ]
+  },
+  {
+    "name": "TLChain Network Mainnet",
+    "chain": "TLC",
+    "chainId": 5177,
+    "shortName": "tlc",
+    "icon": "tlc",
+    "Cid": "QmaR5TsgnWSjLys6wGaciKUbc5qYL3Es4jtgQcosVqDWR3",
+    "explorers": [
+      {
+        "url": "https://explorer.tlchain.network"
+      }
+    ]
+  },
+  {
+    "name": "EraSwap Mainnet",
+    "chain": "ESN",
+    "chainId": 5197,
+    "shortName": "es",
+    "icon": "eraswap",
+    "Cid": "QmV1wZ1RVXeD7216aiVBpLkbBBHWNuoTvcSzpVQsqi2uaH",
+    "explorers": null
+  },
+  {
+    "name": "Uzmi Network Mainnet",
+    "chain": "UZMI",
+    "chainId": 5315,
+    "shortName": "UZMI",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Nahmii Mainnet",
+    "chain": "Nahmii",
+    "chainId": 5551,
+    "shortName": "Nahmii",
+    "icon": "nahmii",
+    "Cid": "QmZhKXgoGpzvthr2eh8ZNgT75YvMtEBegdELAaMPPzf5QT",
+    "explorers": [
+      {
+        "url": "https://explorer.nahmii.io"
+      }
+    ]
+  },
+  {
+    "name": "Nahmii Testnet",
+    "chain": "Nahmii",
+    "chainId": 5553,
+    "shortName": "Nahmii testnet",
+    "icon": "nahmii",
+    "Cid": "QmZhKXgoGpzvthr2eh8ZNgT75YvMtEBegdELAaMPPzf5QT",
+    "explorers": [
+      {
+        "url": "https://explorer.testnet.nahmii.io"
+      }
+    ]
+  },
+  {
+    "name": "Syscoin Tanenbaum Testnet",
+    "chain": "SYS",
+    "chainId": 5700,
+    "shortName": "tsys",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://tanenbaum.io"
+      }
+    ]
+  },
+  {
+    "name": "Digest Swarm Chain",
+    "chain": "DSC",
+    "chainId": 5777,
+    "shortName": "dgcc",
+    "icon": "swarmchain",
+    "Cid": "QmRu7KmQoC2vSVeD7Y6bxRYikQHYs86H9fRAdb1ytPkK9r",
+    "explorers": [
+      {
+        "url": "https://explorer.digestgroup.ltd"
+      }
+    ]
+  },
+  {
+    "name": "Ontology Testnet",
+    "chain": "Ontology",
+    "chainId": 5851,
+    "shortName": "Ontology Testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.ont.io/testnet"
+      }
+    ]
+  },
+  {
+    "name": "Wegochain Rubidium Mainnet",
+    "chain": "RBD",
+    "chainId": 5869,
+    "shortName": "rbd",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan2.wegochain.io"
+      }
+    ]
+  },
+  {
+    "name": "Pixie Chain Mainnet",
+    "chain": "PixieChain",
+    "chainId": 6626,
+    "shortName": "pixie-chain",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.chain.pixie.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Ella the heart",
+    "chain": "ella",
+    "chainId": 7027,
+    "shortName": "ELLA",
+    "icon": "ella",
+    "Cid": "QmVkAhSaHhH3wKoLT56Aq8dNyEH4RySPEpqPcLwsptGBDm",
+    "explorers": [
+      {
+        "url": "https://ella.network"
+      }
+    ]
+  },
+  {
+    "name": "Shyft Mainnet",
+    "chain": "SHYFT",
+    "chainId": 7341,
+    "shortName": "shyft",
+    "icon": "shyft",
+    "Cid": "QmUkFZC2ZmoYPTKf7AHdjwRPZoV2h1MCuHaGM4iu8SNFpi",
+    "explorers": [
+      {
+        "url": "https://bx.shyft.network"
+      }
+    ]
+  },
+  {
+    "name": "Rise of the Warbots Testnet",
+    "chain": "nmactest",
+    "chainId": 7777,
+    "shortName": "Rise of the Warbots Testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.avascan.info/blockchain/2mZ9doojfwHzXN3VXDQELKnKyZYxv7833U8Yq5eTfFx3hxJtiy"
+      }
+    ]
+  },
+  {
+    "name": "Hazlor Testnet",
+    "chain": "SCAS",
+    "chainId": 7878,
+    "shortName": "tscas",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.hazlor.com"
+      }
+    ]
+  },
+  {
+    "name": "Teleport",
+    "chain": "Teleport",
+    "chainId": 8000,
+    "shortName": "teleport",
+    "icon": "teleport",
+    "Cid": "QmdP1sLnsmW9dwnfb1GxAXU1nHDzCvWBQNumvMXpdbCSuz",
+    "explorers": [
+      {
+        "url": "https://evm-explorer.teleport.network"
+      },
+      {
+        "url": "https://explorer.teleport.network"
+      }
+    ]
+  },
+  {
+    "name": "Teleport Testnet",
+    "chain": "Teleport",
+    "chainId": 8001,
+    "shortName": "teleport-testnet",
+    "icon": "teleport",
+    "Cid": "QmdP1sLnsmW9dwnfb1GxAXU1nHDzCvWBQNumvMXpdbCSuz",
+    "explorers": [
+      {
+        "url": "https://evm-explorer.testnet.teleport.network"
+      },
+      {
+        "url": "https://explorer.testnet.teleport.network"
+      }
+    ]
+  },
+  {
+    "name": "MDGL Testnet",
+    "chain": "MDGL",
+    "chainId": 8029,
+    "shortName": "mdgl",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "GeneChain Adenine Testnet",
+    "chain": "GeneChain",
+    "chainId": 8080,
+    "shortName": "GeneChainAdn",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan-testnet.genechain.io"
+      }
+    ]
+  },
+  {
+    "name": "Klaytn Mainnet Cypress",
+    "chain": "KLAY",
+    "chainId": 8217,
+    "shortName": "Cypress",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scope.klaytn.com"
+      }
+    ]
+  },
+  {
+    "name": "KorthoTest",
+    "chain": "Kortho",
+    "chainId": 8285,
+    "shortName": "Kortho",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "TOOL Global Mainnet",
+    "chain": "OLO",
+    "chainId": 8723,
+    "shortName": "olo",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.olo.network"
+      }
+    ]
+  },
+  {
+    "name": "TOOL Global Testnet",
+    "chain": "OLO",
+    "chainId": 8724,
+    "shortName": "tolo",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Ambros Chain Testnet",
+    "chain": "ambroschain",
+    "chainId": 8888,
+    "shortName": "ambrostestnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.ambrosscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Mammoth Mainnet",
+    "chain": "MMT",
+    "chainId": 8898,
+    "shortName": "mmt",
+    "icon": "mmt",
+    "Cid": "QmaF5gi2CbDKsJ2UchNkjBqmWjv8JEDP3vePBmxeUHiaK4",
+    "explorers": [
+      {
+        "url": "https://mmtscan.io"
+      }
+    ]
+  },
+  {
+    "name": "bloxberg",
+    "chain": "bloxberg",
+    "chainId": 8995,
+    "shortName": "berg",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Evmos Testnet",
+    "chain": "Evmos",
+    "chainId": 9000,
+    "shortName": "evmos-testnet",
+    "icon": "evmos",
+    "Cid": "QmeZW6VKUFTbz7PPW8PmDR3ZHa6osYPLBFPnW8T5LSU49c",
+    "explorers": [
+      {
+        "url": "https://evm.evmos.dev"
+      },
+      {
+        "url": "https://explorer.evmos.dev"
+      }
+    ]
+  },
+  {
+    "name": "Evmos",
+    "chain": "Evmos",
+    "chainId": 9001,
+    "shortName": "evmos",
+    "icon": "evmos",
+    "Cid": "QmeZW6VKUFTbz7PPW8PmDR3ZHa6osYPLBFPnW8T5LSU49c",
+    "explorers": [
+      {
+        "url": "https://evm.evmos.org"
+      },
+      {
+        "url": "https://www.mintscan.io/evmos"
+      }
+    ]
+  },
+  {
+    "name": "Genesis Coin",
+    "chain": "Genesis",
+    "chainId": 9100,
+    "shortName": "GENEC",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Rangers Protocol Testnet Robin",
+    "chain": "Rangers",
+    "chainId": 9527,
+    "shortName": "trpg",
+    "icon": "rangers",
+    "Cid": "QmfHG3xbg4iiopagww93Gu7tmvCpPwZdiwsUjd3Dt5mRwT",
+    "explorers": [
+      {
+        "url": "https://robin-rangersscan.rangersprotocol.com"
+      }
+    ]
+  },
+  {
+    "name": "myOwn Testnet",
+    "chain": "myOwn",
+    "chainId": 9999,
+    "shortName": "myn",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Smart Bitcoin Cash",
+    "chain": "smartBCH",
+    "chainId": 10000,
+    "shortName": "smartbch",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Smart Bitcoin Cash Testnet",
+    "chain": "smartBCHTest",
+    "chainId": 10001,
+    "shortName": "smartbchtest",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Blockchain Genesis Mainnet",
+    "chain": "GEN",
+    "chainId": 10101,
+    "shortName": "GEN",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "CryptoCoinPay",
+    "chain": "CCP",
+    "chainId": 10823,
+    "shortName": "CCP",
+    "icon": "ccp",
+    "Cid": "QmPw1ixYYeXvTiRWoCt2jWe4YMd3B5o7TzL18SBEHXvhXX",
+    "explorers": [
+      {
+        "url": "https://cryptocoinpay.info"
+      }
+    ]
+  },
+  {
+    "name": "Quadrans Blockchain",
+    "chain": "QDC",
+    "chainId": 10946,
+    "shortName": "quadrans",
+    "icon": "quadrans",
+    "Cid": "QmZFiYHnE4TrezPz8wSap9nMxG6m98w4fv7ataj2TfLNck",
+    "explorers": [
+      {
+        "url": "https://explorer.quadrans.io"
+      }
+    ]
+  },
+  {
+    "name": "Quadrans Blockchain Testnet",
+    "chain": "tQDC",
+    "chainId": 10947,
+    "shortName": "quadranstestnet",
+    "icon": "quadrans",
+    "Cid": "QmZFiYHnE4TrezPz8wSap9nMxG6m98w4fv7ataj2TfLNck",
+    "explorers": [
+      {
+        "url": "https://explorer.testnet.quadrans.io"
+      }
+    ]
+  },
+  {
+    "name": "WAGMI",
+    "chain": "WAGMI",
+    "chainId": 11111,
+    "shortName": "WAGMI",
+    "icon": "wagmi",
+    "Cid": "QmNoyUXxnak8B3xgFxErkVfyVEPJUMHBzq7qJcYzkUrPR4",
+    "explorers": [
+      {
+        "url": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/explorer"
+      }
+    ]
+  },
+  {
+    "name": "Shyft Testnet",
+    "chain": "SHYFTT",
+    "chainId": 11437,
+    "shortName": "shyftt",
+    "icon": "shyft",
+    "Cid": "QmUkFZC2ZmoYPTKf7AHdjwRPZoV2h1MCuHaGM4iu8SNFpi",
+    "explorers": [
+      {
+        "url": "https://bx.testnet.shyft.network"
+      }
+    ]
+  },
+  {
+    "name": "Singularity ZERO Testnet",
+    "chain": "ZERO",
+    "chainId": 12051,
+    "shortName": "tZERO",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://betaenv.singularity.gold:18002"
+      }
+    ]
+  },
+  {
+    "name": "Singularity ZERO Mainnet",
+    "chain": "ZERO",
+    "chainId": 12052,
+    "shortName": "ZERO",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://zeroscan.singularity.gold"
+      }
+    ]
+  },
+  {
+    "name": "Phoenix Mainnet",
+    "chain": "Phoenix",
+    "chainId": 13381,
+    "shortName": "Phoenix",
+    "icon": "phoenix",
+    "Cid": "QmYiLMeKDXMSNuQmtxNdxm53xR588pcRXMf7zuiZLjQnc6",
+    "explorers": [
+      {
+        "url": "https://phoenixplorer.com"
+      }
+    ]
+  },
+  {
+    "name": "MetaDot Mainnet",
+    "chain": "MTT",
+    "chainId": 16000,
+    "shortName": "mtt",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "MetaDot Testnet",
+    "chain": "MTTTest",
+    "chainId": 16001,
+    "shortName": "mtttest",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "IVAR Chain Testnet",
+    "chain": "IVAR",
+    "chainId": 16888,
+    "shortName": "tivar",
+    "icon": "ivar",
+    "Cid": "QmV8UmSwqGF2fxrqVEBTHbkyZueahqyYtkfH2RBF5pNysM",
+    "explorers": [
+      {
+        "url": "https://testnet.ivarscan.com"
+      }
+    ]
+  },
+  {
+    "name": "BTCIX Network",
+    "chain": "BTCIX",
+    "chainId": 19845,
+    "shortName": "btcix",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://btcixscan.com"
+      }
+    ]
+  },
+  {
+    "name": "CENNZnet Azalea",
+    "chain": "CENNZnet",
+    "chainId": 21337,
+    "shortName": "cennz-a",
+    "icon": "cennz",
+    "Cid": "QmWhNm7tTi6SYbiumULDRk956hxgqaZSX77vcxBNn8fvnw",
+    "explorers": [
+      {
+        "url": "https://uncoverexplorer.com"
+      }
+    ]
+  },
+  {
+    "name": "omChain Mainnet",
+    "chain": "OML",
+    "chainId": 21816,
+    "shortName": "omc",
+    "icon": "omlira",
+    "Cid": "QmQtEHaejiDbmiCvbBYw9jNQv3DLK5XHCQwLRfnLNpdN5j",
+    "explorers": [
+      {
+        "url": "https://explorer.omchain.io"
+      }
+    ]
+  },
+  {
+    "name": "Taycan",
+    "chain": "Taycan",
+    "chainId": 22023,
+    "shortName": "SFL",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://taycan-evmscan.hupayx.io"
+      },
+      {
+        "url": "https://taycan-cosmoscan.hupayx.io"
+      }
+    ]
+  },
+  {
+    "name": "Webchain",
+    "chain": "WEB",
+    "chainId": 24484,
+    "shortName": "web",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "MintMe.com Coin",
+    "chain": "MINTME",
+    "chainId": 24734,
+    "shortName": "mintme",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "OasisChain Mainnet",
+    "chain": "OasisChain",
+    "chainId": 26863,
+    "shortName": "OAC",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.oasischain.io"
+      }
+    ]
+  },
+  {
+    "name": "Piece testnet",
+    "chain": "PieceNetwork",
+    "chainId": 30067,
+    "shortName": "Piece",
+    "icon": "piecechain",
+    "Cid": "QmWAU39z1kcYshAqkENRH8qUjfR5CJehCxA4GiC33p3HpH",
+    "explorers": [
+      {
+        "url": "https://testnet-scan.piecenetwork.com"
+      }
+    ]
+  },
+  {
+    "name": "Ethersocial Network",
+    "chain": "ESN",
+    "chainId": 31102,
+    "shortName": "esn",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "GoChain Testnet",
+    "chain": "GO",
+    "chainId": 31337,
+    "shortName": "got",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet-explorer.gochain.io"
+      }
+    ]
+  },
+  {
+    "name": "Bitgert Mainnet",
+    "chain": "Brise",
+    "chainId": 32520,
+    "shortName": "Brise",
+    "icon": "brise",
+    "Cid": "QmY3vKe1rG9AyHSGH1ouP3ER3EVUZRtRrFbFZEfEpMSd4V",
+    "explorers": [
+      {
+        "url": "https://brisescan.com"
+      }
+    ]
+  },
+  {
+    "name": "Fusion Mainnet",
+    "chain": "FSN",
+    "chainId": 32659,
+    "shortName": "fsn",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Energi Mainnet",
+    "chain": "NRG",
+    "chainId": 39797,
+    "shortName": "nrg",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "pegglecoin",
+    "chain": "42069",
+    "chainId": 42069,
+    "shortName": "PC",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Arbitrum One",
+    "chain": "ETH",
+    "chainId": 42161,
+    "shortName": "arb1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://arbiscan.io"
+      },
+      {
+        "url": "https://explorer.arbitrum.io"
+      }
+    ]
+  },
+  {
+    "name": "Celo Mainnet",
+    "chain": "CELO",
+    "chainId": 42220,
+    "shortName": "CELO",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.celo.org"
+      }
+    ]
+  },
+  {
+    "name": "Emerald Paratime Testnet",
+    "chain": "Emerald",
+    "chainId": 42261,
+    "shortName": "emerald",
+    "icon": "oasis",
+    "Cid": "bafkreiespupb52akiwrexxg7g72mh7m7h7lum5hmqijmpdh3kmuunzclha",
+    "explorers": [
+      {
+        "url": "https://testnet.explorer.emerald.oasis.dev"
+      }
+    ]
+  },
+  {
+    "name": "Emerald Paratime Mainnet",
+    "chain": "Emerald",
+    "chainId": 42262,
+    "shortName": "oasis",
+    "icon": "oasis",
+    "Cid": "bafkreiespupb52akiwrexxg7g72mh7m7h7lum5hmqijmpdh3kmuunzclha",
+    "explorers": [
+      {
+        "url": "https://explorer.emerald.oasis.dev"
+      }
+    ]
+  },
+  {
+    "name": "Athereum",
+    "chain": "ATH",
+    "chainId": 43110,
+    "shortName": "avaeth",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Avalanche Fuji Testnet",
+    "chain": "AVAX",
+    "chainId": 43113,
+    "shortName": "Fuji",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.snowtrace.io"
+      }
+    ]
+  },
+  {
+    "name": "Avalanche C-Chain",
+    "chain": "AVAX",
+    "chainId": 43114,
+    "shortName": "Avalanche",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://snowtrace.io"
+      }
+    ]
+  },
+  {
+    "name": "Celo Alfajores Testnet",
+    "chain": "CELO",
+    "chainId": 44787,
+    "shortName": "ALFA",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Autobahn Network",
+    "chain": "TXL",
+    "chainId": 45000,
+    "shortName": "Autobahn Network",
+    "icon": "autobahn",
+    "Cid": "QmZP19pbqTco4vaP9siduLWP8pdYArFK3onfR55tvjr12s",
+    "explorers": [
+      {
+        "url": "https://explorer.autobahn.network"
+      }
+    ]
+  },
+  {
+    "name": "REI Network",
+    "chain": "REI",
+    "chainId": 47805,
+    "shortName": "REI",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://scan.rei.network"
+      }
+    ]
+  },
+  {
+    "name": "Energi Testnet",
+    "chain": "NRG",
+    "chainId": 49797,
+    "shortName": "tnrg",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "DFK Chain",
+    "chain": "DFK",
+    "chainId": 53935,
+    "shortName": "DFK",
+    "icon": "dfk",
+    "Cid": "QmQB48m15TzhUFrmu56QCRQjkrkgUaKfgCmKE8o3RzmuPJ",
+    "explorers": [
+      {
+        "url": "https://explorer.dfkchain.com"
+      }
+    ]
+  },
+  {
+    "name": "REI Chain Mainnet",
+    "chain": "REI",
+    "chainId": 55555,
+    "shortName": "rei",
+    "icon": "reichain",
+    "Cid": "QmNy5d5knHVjJJS9g4kLsh9i73RTjckpKL6KZvRk6ptbhf",
+    "explorers": [
+      {
+        "url": "https://reiscan.com"
+      }
+    ]
+  },
+  {
+    "name": "REI Chain Testnet",
+    "chain": "REI",
+    "chainId": 55556,
+    "shortName": "trei",
+    "icon": "reichain",
+    "Cid": "QmNy5d5knHVjJJS9g4kLsh9i73RTjckpKL6KZvRk6ptbhf",
+    "explorers": [
+      {
+        "url": "https://testnet.reiscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Testnet Chain 0",
+    "chain": "Thinkium",
+    "chainId": 60000,
+    "shortName": "TKM-test0",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://test0.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Testnet Chain 1",
+    "chain": "Thinkium",
+    "chainId": 60001,
+    "shortName": "TKM-test1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://test1.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Testnet Chain 2",
+    "chain": "Thinkium",
+    "chainId": 60002,
+    "shortName": "TKM-test2",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://test2.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Testnet Chain 103",
+    "chain": "Thinkium",
+    "chainId": 60103,
+    "shortName": "TKM-test103",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://test103.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Celo Baklava Testnet",
+    "chain": "CELO",
+    "chainId": 62320,
+    "shortName": "BKLV",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "MultiVAC Mainnet",
+    "chain": "MultiVAC",
+    "chainId": 62621,
+    "shortName": "mtv",
+    "icon": "multivac",
+    "Cid": "QmWb1gthhbzkiLdgcP8ccZprGbJVjFcW8Rn4uJjrw4jd3B",
+    "explorers": [
+      {
+        "url": "https://e.mtv.ac"
+      }
+    ]
+  },
+  {
+    "name": "eCredits Mainnet",
+    "chain": "ECS",
+    "chainId": 63000,
+    "shortName": "ecs",
+    "icon": "ecredits",
+    "Cid": "QmU9H9JE1KtLh2Fxrd8EWTMjKGJBpgRWKUeEx7u6ic4kBY",
+    "explorers": [
+      {
+        "url": "https://explorer.ecredits.com"
+      }
+    ]
+  },
+  {
+    "name": "eCredits Testnet",
+    "chain": "ECS",
+    "chainId": 63001,
+    "shortName": "ecs-testnet",
+    "icon": "ecredits",
+    "Cid": "QmU9H9JE1KtLh2Fxrd8EWTMjKGJBpgRWKUeEx7u6ic4kBY",
+    "explorers": [
+      {
+        "url": "https://explorer.tst.ecredits.com"
+      }
+    ]
+  },
+  {
+    "name": "Condrieu",
+    "chain": "ETH",
+    "chainId": 69420,
+    "shortName": "cndr",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.condrieu.ethdevops.io"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Mainnet Chain 0",
+    "chain": "Thinkium",
+    "chainId": 70000,
+    "shortName": "TKM0",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://chain0.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Mainnet Chain 1",
+    "chain": "Thinkium",
+    "chainId": 70001,
+    "shortName": "TKM1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://chain1.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Mainnet Chain 2",
+    "chain": "Thinkium",
+    "chainId": 70002,
+    "shortName": "TKM2",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://chain2.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Thinkium Mainnet Chain 103",
+    "chain": "Thinkium",
+    "chainId": 70103,
+    "shortName": "TKM103",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://chain103.thinkiumscan.net"
+      }
+    ]
+  },
+  {
+    "name": "Polyjuice Testnet",
+    "chain": "CKB",
+    "chainId": 71393,
+    "shortName": "ckb",
+    "icon": "polyjuice",
+    "Cid": "QmZ5gFWUxLFqqT3DkefYfRsVksMwMTc5VvBjkbHpeFMsNe",
+    "explorers": null
+  },
+  {
+    "name": "Godwoken Testnet (V1.1)",
+    "chain": "GWT",
+    "chainId": 71401,
+    "shortName": "gw-testnet-v1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://v1.aggron.gwscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Godwoken Mainnet",
+    "chain": "GWT",
+    "chainId": 71402,
+    "shortName": "gw-mainnet-v1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://v1.aggron.gwscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Energy Web Volta Testnet",
+    "chain": "Volta",
+    "chainId": 73799,
+    "shortName": "vt",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Mixin Virtual Machine",
+    "chain": "MVM",
+    "chainId": 73927,
+    "shortName": "mvm",
+    "icon": "mvm",
+    "Cid": "QmeuDgSprukzfV7fi9XYHYcfmT4aZZZU7idgShtRS8Vf6V",
+    "explorers": [
+      {
+        "url": "https://scan.mvm.dev"
+      }
+    ]
+  },
+  {
+    "name": "Firenze test network",
+    "chain": "ETH",
+    "chainId": 78110,
+    "shortName": "firenze",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Mumbai",
+    "chain": "Polygon",
+    "chainId": 80001,
+    "shortName": "maticmum",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mumbai.polygonscan.com"
+      }
+    ]
+  },
+  {
+    "name": "IVAR Chain Mainnet",
+    "chain": "IVAR",
+    "chainId": 88888,
+    "shortName": "ivar",
+    "icon": "ivar",
+    "Cid": "QmV8UmSwqGF2fxrqVEBTHbkyZueahqyYtkfH2RBF5pNysM",
+    "explorers": [
+      {
+        "url": "https://ivarscan.com"
+      }
+    ]
+  },
+  {
+    "name": "UB Smart Chain(testnet)",
+    "chain": "USC",
+    "chainId": 99998,
+    "shortName": "usctest",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "UB Smart Chain",
+    "chain": "USC",
+    "chainId": 99999,
+    "shortName": "usc",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "QuarkChain Mainnet Root",
+    "chain": "QuarkChain",
+    "chainId": 100000,
+    "shortName": "qkc-r",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 0",
+    "chain": "QuarkChain",
+    "chainId": 100001,
+    "shortName": "qkc-s0",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/0"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 1",
+    "chain": "QuarkChain",
+    "chainId": 100002,
+    "shortName": "qkc-s1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/1"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 2",
+    "chain": "QuarkChain",
+    "chainId": 100003,
+    "shortName": "qkc-s2",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/2"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 3",
+    "chain": "QuarkChain",
+    "chainId": 100004,
+    "shortName": "qkc-s3",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/3"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 4",
+    "chain": "QuarkChain",
+    "chainId": 100005,
+    "shortName": "qkc-s4",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/4"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 5",
+    "chain": "QuarkChain",
+    "chainId": 100006,
+    "shortName": "qkc-s5",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/5"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 6",
+    "chain": "QuarkChain",
+    "chainId": 100007,
+    "shortName": "qkc-s6",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/6"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Mainnet Shard 7",
+    "chain": "QuarkChain",
+    "chainId": 100008,
+    "shortName": "qkc-s7",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://mainnet.quarkchain.io/7"
+      }
+    ]
+  },
+  {
+    "name": "Crystaleum",
+    "chain": "crystal",
+    "chainId": 103090,
+    "shortName": "CRFI",
+    "icon": "crystal",
+    "Cid": "Qmbry1Uc6HnXmqFNXW5dFJ7To8EezCCjNr4TqqvAyzXS4h",
+    "explorers": [
+      {
+        "url": "https://scan.crystaleum.org"
+      }
+    ]
+  },
+  {
+    "name": "BROChain Mainnet",
+    "chain": "BRO",
+    "chainId": 108801,
+    "shortName": "bro",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.brochain.org"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Root",
+    "chain": "QuarkChain",
+    "chainId": 110000,
+    "shortName": "qkc-d-r",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "QuarkChain Devnet Shard 0",
+    "chain": "QuarkChain",
+    "chainId": 110001,
+    "shortName": "qkc-d-s0",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/0"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Shard 1",
+    "chain": "QuarkChain",
+    "chainId": 110002,
+    "shortName": "qkc-d-s1",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/1"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Shard 2",
+    "chain": "QuarkChain",
+    "chainId": 110003,
+    "shortName": "qkc-d-s2",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/2"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Shard 3",
+    "chain": "QuarkChain",
+    "chainId": 110004,
+    "shortName": "qkc-d-s3",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/3"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Shard 4",
+    "chain": "QuarkChain",
+    "chainId": 110005,
+    "shortName": "qkc-d-s4",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/4"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Shard 5",
+    "chain": "QuarkChain",
+    "chainId": 110006,
+    "shortName": "qkc-d-s5",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/5"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Shard 6",
+    "chain": "QuarkChain",
+    "chainId": 110007,
+    "shortName": "qkc-d-s6",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/6"
+      }
+    ]
+  },
+  {
+    "name": "QuarkChain Devnet Shard 7",
+    "chain": "QuarkChain",
+    "chainId": 110008,
+    "shortName": "qkc-d-s7",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet.quarkchain.io/7"
+      }
+    ]
+  },
+  {
+    "name": "Milkomeda C1 Testnet",
+    "chain": "milkTAda",
+    "chainId": 200101,
+    "shortName": "milkTAda",
+    "icon": "milkomeda",
+    "Cid": "QmdoUtvHDybu5ppYBZT8BMRp6AqByVSoQs8nFwKbaS55jd",
+    "explorers": [
+      {
+        "url": "https://explorer-devnet-cardano-evm.c1.milkomeda.com"
+      }
+    ]
+  },
+  {
+    "name": "Akroma",
+    "chain": "AKA",
+    "chainId": 200625,
+    "shortName": "aka",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Alaya Mainnet",
+    "chain": "Alaya",
+    "chainId": 201018,
+    "shortName": "alaya",
+    "icon": "alaya",
+    "Cid": "Qmci6vPcWAwmq19j98yuQxjV6UPzHtThMdCAUDbKeb8oYu",
+    "explorers": [
+      {
+        "url": "https://scan.alaya.network"
+      }
+    ]
+  },
+  {
+    "name": "Alaya Dev Testnet",
+    "chain": "Alaya",
+    "chainId": 201030,
+    "shortName": "alayadev",
+    "icon": "alaya",
+    "Cid": "Qmci6vPcWAwmq19j98yuQxjV6UPzHtThMdCAUDbKeb8oYu",
+    "explorers": [
+      {
+        "url": "https://devnetscan.alaya.network"
+      }
+    ]
+  },
+  {
+    "name": "PlatON Mainnet",
+    "chain": "PlatON",
+    "chainId": 210425,
+    "shortName": "platon",
+    "icon": "platon",
+    "Cid": "QmT7PSXBiVBma6E15hNkivmstqLu3JSnG1jXN5pTmcCGRC",
+    "explorers": [
+      {
+        "url": "https://scan.platon.network"
+      }
+    ]
+  },
+  {
+    "name": "Haymo Testnet",
+    "chain": "tHYM",
+    "chainId": 234666,
+    "shortName": "hym",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "ARTIS sigma1",
+    "chain": "ARTIS",
+    "chainId": 246529,
+    "shortName": "ats",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "ARTIS Testnet tau1",
+    "chain": "ARTIS",
+    "chainId": 246785,
+    "shortName": "atstau",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Social Smart Chain Mainnet",
+    "chain": "SoChain",
+    "chainId": 281121,
+    "shortName": "SoChain",
+    "icon": "",
+    "Cid": "",
+    "explorers": []
+  },
+  {
+    "name": "Polis Testnet",
+    "chain": "Sparta",
+    "chainId": 333888,
+    "shortName": "sparta",
+    "icon": "polis",
+    "Cid": "QmagWrtyApex28H2QeXcs3jJ2F7p2K7eESz3cDbHdQ3pjG",
+    "explorers": null
+  },
+  {
+    "name": "Polis Mainnet",
+    "chain": "Olympus",
+    "chainId": 333999,
+    "shortName": "olympus",
+    "icon": "polis",
+    "Cid": "QmagWrtyApex28H2QeXcs3jJ2F7p2K7eESz3cDbHdQ3pjG",
+    "explorers": null
+  },
+  {
+    "name": "Arbitrum Rinkeby",
+    "chain": "ETH",
+    "chainId": 421611,
+    "shortName": "arb-rinkeby",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.arbiscan.io"
+      },
+      {
+        "url": "https://rinkeby-explorer.arbitrum.io"
+      }
+    ]
+  },
+  {
+    "name": "Dexalot Testnet",
+    "chain": "DEXALOT",
+    "chainId": 432201,
+    "shortName": "Dexalot",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://subnets.avax.network/dexalot/testnet/explorer"
+      }
+    ]
+  },
+  {
+    "name": "Weelink Testnet",
+    "chain": "WLK",
+    "chainId": 444900,
+    "shortName": "wlkt",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://weelink.cloud/#/blockView/overview"
+      }
+    ]
+  },
+  {
+    "name": "OpenChain Mainnet",
+    "chain": "OpenChain",
+    "chainId": 474142,
+    "shortName": "oc",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://sidescan.luniverse.io/1641349324562974539"
+      }
+    ]
+  },
+  {
+    "name": "CMP-Testnet",
+    "chain": "CMP",
+    "chainId": 512512,
+    "shortName": "cmp",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://galaxy.scan.caduceus.foundation"
+      }
+    ]
+  },
+  {
+    "name": "Vision - Vpioneer Test Chain",
+    "chain": "Vision-Vpioneer",
+    "chainId": 666666,
+    "shortName": "vpioneer",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Vision - Mainnet",
+    "chain": "Vision",
+    "chainId": 888888,
+    "shortName": "vision",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://www.visionscan.org"
+      }
+    ]
+  },
+  {
+    "name": "Eluvio Content Fabric",
+    "chain": "Eluvio",
+    "chainId": 955305,
+    "shortName": "elv",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.eluv.io"
+      }
+    ]
+  },
+  {
+    "name": "Etho Protocol",
+    "chain": "ETHO",
+    "chainId": 1313114,
+    "shortName": "etho",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.ethoprotocol.com"
+      }
+    ]
+  },
+  {
+    "name": "Xerom",
+    "chain": "XERO",
+    "chainId": 1313500,
+    "shortName": "xero",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Kintsugi",
+    "chain": "ETH",
+    "chainId": 1337702,
+    "shortName": "kintsugi",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.kintsugi.themerge.dev"
+      }
+    ]
+  },
+  {
+    "name": "Kiln",
+    "chain": "ETH",
+    "chainId": 1337802,
+    "shortName": "kiln",
+    "icon": "ethereum",
+    "Cid": "QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt",
+    "explorers": [
+      {
+        "url": "https://explorer.kiln.themerge.dev"
+      }
+    ]
+  },
+  {
+    "name": "PlatON Dev Testnet",
+    "chain": "PlatON",
+    "chainId": 2203181,
+    "shortName": "platondev",
+    "icon": "platon",
+    "Cid": "QmT7PSXBiVBma6E15hNkivmstqLu3JSnG1jXN5pTmcCGRC",
+    "explorers": [
+      {
+        "url": "https://devnetscan.platon.network"
+      }
+    ]
+  },
+  {
+    "name": "PlatON Dev Testnet2",
+    "chain": "PlatON",
+    "chainId": 2206132,
+    "shortName": "platondev2",
+    "icon": "platon",
+    "Cid": "QmT7PSXBiVBma6E15hNkivmstqLu3JSnG1jXN5pTmcCGRC",
+    "explorers": [
+      {
+        "url": "https://devnet2scan.platon.network"
+      }
+    ]
+  },
+  {
+    "name": "Musicoin",
+    "chain": "MUSIC",
+    "chainId": 7762959,
+    "shortName": "music",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Sepolia",
+    "chain": "ETH",
+    "chainId": 11155111,
+    "shortName": "sep",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://sepolia.otterscan.io"
+      }
+    ]
+  },
+  {
+    "name": "PepChain Churchill",
+    "chain": "PEP",
+    "chainId": 13371337,
+    "shortName": "tpep",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "IOLite",
+    "chain": "ILT",
+    "chainId": 18289463,
+    "shortName": "ilt",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "SmartMesh Mainnet",
+    "chain": "Spectrum",
+    "chainId": 20180430,
+    "shortName": "spectrum",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://spectrum.pub"
+      }
+    ]
+  },
+  {
+    "name": "quarkblockchain",
+    "chain": "QKI",
+    "chainId": 20181205,
+    "shortName": "qki",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Auxilium Network Mainnet",
+    "chain": "AUX",
+    "chainId": 28945486,
+    "shortName": "auxi",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Joys Digital Mainnet",
+    "chain": "JOYS",
+    "chainId": 35855456,
+    "shortName": "JOYS",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Aquachain",
+    "chain": "AQUA",
+    "chainId": 61717561,
+    "shortName": "aqua",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Joys Digital TestNet",
+    "chain": "TOYS",
+    "chainId": 99415706,
+    "shortName": "TOYS",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Gather Mainnet Network",
+    "chain": "GTH",
+    "chainId": 192837465,
+    "shortName": "GTH",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.gather.network"
+      }
+    ]
+  },
+  {
+    "name": "Neon EVM DevNet",
+    "chain": "Solana",
+    "chainId": 245022926,
+    "shortName": "neonevm-devnet",
+    "icon": "neon",
+    "Cid": "Qmcxevb3v8PEvnvfYgcG3bCBuPhe5YAdsHeaufDChSSR3Q",
+    "explorers": [
+      {
+        "url": "https://devnet.explorer.neon-labs.org"
+      },
+      {
+        "url": "https://devnet.neonscan.org"
+      }
+    ]
+  },
+  {
+    "name": "Neon EVM MainNet",
+    "chain": "Solana",
+    "chainId": 245022934,
+    "shortName": "neonevm-mainnet",
+    "icon": "neon",
+    "Cid": "Qmcxevb3v8PEvnvfYgcG3bCBuPhe5YAdsHeaufDChSSR3Q",
+    "explorers": [
+      {
+        "url": "https://mainnet.explorer.neon-labs.org"
+      },
+      {
+        "url": "https://mainnet.neonscan.org"
+      }
+    ]
+  },
+  {
+    "name": "Neon EVM TestNet",
+    "chain": "Solana",
+    "chainId": 245022940,
+    "shortName": "neonevm-testnet",
+    "icon": "neon",
+    "Cid": "Qmcxevb3v8PEvnvfYgcG3bCBuPhe5YAdsHeaufDChSSR3Q",
+    "explorers": [
+      {
+        "url": "https://testnet.explorer.neon-labs.org"
+      },
+      {
+        "url": "https://testnet.neonscan.org"
+      }
+    ]
+  },
+  {
+    "name": "OneLedger Mainnet",
+    "chain": "OLT",
+    "chainId": 311752642,
+    "shortName": "oneledger",
+    "icon": "oneledger",
+    "Cid": "QmRhqq4Gp8G9w27ND3LeFW49o5PxcxrbJsqHbpBFtzEMfC",
+    "explorers": [
+      {
+        "url": "https://mainnet-explorer.oneledger.network"
+      }
+    ]
+  },
+  {
+    "name": "Gather Testnet Network",
+    "chain": "GTH",
+    "chainId": 356256156,
+    "shortName": "tGTH",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet-explorer.gather.network"
+      }
+    ]
+  },
+  {
+    "name": "Gather Devnet Network",
+    "chain": "GTH",
+    "chainId": 486217935,
+    "shortName": "dGTH",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://devnet-explorer.gather.network"
+      }
+    ]
+  },
+  {
+    "name": "IPOS Network",
+    "chain": "IPOS",
+    "chainId": 1122334455,
+    "shortName": "ipos",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Aurora Mainnet",
+    "chain": "NEAR",
+    "chainId": 1313161554,
+    "shortName": "aurora",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://aurorascan.dev"
+      }
+    ]
+  },
+  {
+    "name": "Aurora Testnet",
+    "chain": "NEAR",
+    "chainId": 1313161555,
+    "shortName": "aurora-testnet",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://testnet.aurorascan.dev"
+      }
+    ]
+  },
+  {
+    "name": "Aurora Betanet",
+    "chain": "NEAR",
+    "chainId": 1313161556,
+    "shortName": "aurora-betanet",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Harmony Mainnet Shard 0",
+    "chain": "Harmony",
+    "chainId": 1666600000,
+    "shortName": "hmy-s0",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.harmony.one"
+      }
+    ]
+  },
+  {
+    "name": "Harmony Mainnet Shard 1",
+    "chain": "Harmony",
+    "chainId": 1666600001,
+    "shortName": "hmy-s1",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Harmony Mainnet Shard 2",
+    "chain": "Harmony",
+    "chainId": 1666600002,
+    "shortName": "hmy-s2",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Harmony Mainnet Shard 3",
+    "chain": "Harmony",
+    "chainId": 1666600003,
+    "shortName": "hmy-s3",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Harmony Testnet Shard 0",
+    "chain": "Harmony",
+    "chainId": 1666700000,
+    "shortName": "hmy-b-s0",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://explorer.pops.one"
+      }
+    ]
+  },
+  {
+    "name": "Harmony Testnet Shard 1",
+    "chain": "Harmony",
+    "chainId": 1666700001,
+    "shortName": "hmy-b-s1",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Harmony Testnet Shard 2",
+    "chain": "Harmony",
+    "chainId": 1666700002,
+    "shortName": "hmy-b-s2",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Harmony Testnet Shard 3",
+    "chain": "Harmony",
+    "chainId": 1666700003,
+    "shortName": "hmy-b-s3",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "DataHopper",
+    "chain": "HOP",
+    "chainId": 2021121117,
+    "shortName": "hop",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Pirl",
+    "chain": "PIRL",
+    "chainId": 3125659152,
+    "shortName": "pirl",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "OneLedger Testnet Frankenstein",
+    "chain": "OLT",
+    "chainId": 4216137055,
+    "shortName": "frankenstein",
+    "icon": "oneledger",
+    "Cid": "QmRhqq4Gp8G9w27ND3LeFW49o5PxcxrbJsqHbpBFtzEMfC",
+    "explorers": [
+      {
+        "url": "https://frankenstein-explorer.oneledger.network"
+      }
+    ]
+  },
+  {
+    "name": "Palm Testnet",
+    "chain": "Palm",
+    "chainId": 11297108099,
+    "shortName": "tpalm",
+    "icon": "palm",
+    "Cid": "QmX6h8xm4em77oNpFRtmAqrZ734MH4VGCC68dEKHUfdfPs",
+    "explorers": [
+      {
+        "url": "https://explorer.palm-uat.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Palm",
+    "chain": "Palm",
+    "chainId": 11297108109,
+    "shortName": "palm",
+    "icon": "palm",
+    "Cid": "QmX6h8xm4em77oNpFRtmAqrZ734MH4VGCC68dEKHUfdfPs",
+    "explorers": [
+      {
+        "url": "https://explorer.palm.io"
+      }
+    ]
+  },
+  {
+    "name": "Ntity Mainnet",
+    "chain": "Ntity",
+    "chainId": 197710212030,
+    "shortName": "ntt",
+    "icon": "ntity",
+    "Cid": "QmSW2YhCvMpnwtPGTJAuEK2QgyWfFjmnwcrapUg6kqFsPf",
+    "explorers": [
+      {
+        "url": "https://blockscout.ntity.io"
+      }
+    ]
+  },
+  {
+    "name": "Haradev Testnet",
+    "chain": "Ntity",
+    "chainId": 197710212031,
+    "shortName": "ntt-haradev",
+    "icon": "ntity",
+    "Cid": "QmSW2YhCvMpnwtPGTJAuEK2QgyWfFjmnwcrapUg6kqFsPf",
+    "explorers": [
+      {
+        "url": "https://blockscout.haradev.com"
+      }
+    ]
+  },
+  {
+    "name": "Molereum Network",
+    "chain": "ETH",
+    "chainId": 6022140761023,
+    "shortName": "mole",
+    "icon": "",
+    "Cid": "",
+    "explorers": null
+  },
+  {
+    "name": "Godwoken Testnet (V1)",
+    "chain": "GWT",
+    "chainId": 868455272153094,
+    "shortName": "gw-testnet-v1-deprecated",
+    "icon": "",
+    "Cid": "",
+    "explorers": [
+      {
+        "url": "https://v1.aggron.gwscan.com"
+      }
+    ]
+  }
+]
