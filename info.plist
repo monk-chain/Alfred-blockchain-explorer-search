@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.dev.monk</string>
+	<string>com.monk</string>
 	<key>connections</key>
 	<dict>
 		<key>BE5540CA-C8CF-45E7-92AB-2C79A16368E8</key>
@@ -36,11 +36,11 @@
 	<key>createdby</key>
 	<string>monk</string>
 	<key>description</key>
-	<string>Scan Eth</string>
+	<string>Search for Blockchain Explorer and display it in your browser.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Scan Eth</string>
+	<string>Blockchain explorer search</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -78,7 +78,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>bsc</string>
+				<string>bes</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -148,7 +148,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>update scan</string>
+				<string>update bes</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
